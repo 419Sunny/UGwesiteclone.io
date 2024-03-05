@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bar1{
+    height: 8vh;
+    width: 100%;
+    background-color: rgb(27, 15, 59);  
+    text-align: center;    
+}
+.ulist1{
+    float: right;
+}
+.list1{
+    display: inline-block;
+    margin-top: 10px;
+}
+.list1 .a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 10px;
+}
+.col-md-3{
+    margin-top: 20px;
+}
+.panel1{
+    height: 25vh;
+    width: 100%;
+    border: 1px solid;
+
+}
+.navbar{
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(27, 15, 59);
+    
+}
+ul{
+    list-style: none;
+}
+
+
+
+

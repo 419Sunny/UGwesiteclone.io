@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: left;
+    background-size: 600px;
+}
+.face{
+    background-image: url("bgi.png");
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-attachment: fixed;
+    background-size: 600px;
+}
+section{
+    background-color: rgb(241, 241, 241); 
+    
+}
+.bar{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(24, 24, 59);
+    text-align: center;
+      
+}
+/* .unlist{
+
+} */
+ul li{
+    list-style: none;
+    /* display: inline-block;   */
+    padding-top: 10px;
+   float: right;  
+   margin-right: 3%;
+}
+ul li a{
+    text-decoration: none;
+     margin: 0px 1rem 0px 1rem;
+    color: aliceblue;
+    
+    
+}
+.nav2{
+    height: 120px;
+    width: 100%;
+    
+}
+.schlog{
+    margin-left: 30px;
+}
+.navbar{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(19, 19, 66);
+    color: aliceblue;
+}
+ul ol{
+    text-decoration: none;
+    display: inline-block;
+}
+ul ol a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 0px 10px 0px 10px;
+    float: right;
+}
+.newsarea{
+    height: 50vh;
+    width: 100%;
+    background-color: white;
+    padding-top: 10px;
+}
+.newstext{
+    font-size:15px;
+    
+    
+}
+#cons{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(27, 29, 107);
+
+}
+.container-xl{
+    /* height: 45em; */
+    padding-bottom: 300px;
+    padding-top: 20px;
+}
+
+.board{
+    color: aliceblue;
+    text-align: center;
+}
+#dates{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(27, 29, 107);
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+#day{
+    height: 40px;
+    width: 100%;
+    background-color: aliceblue;
+    color: rgb(27, 29, 107);
+    text-align: center;
+    border: 1px transparent;
+    box-shadow: inset;     
+}
+
+.boxes{
+    height: 20%;
+    width: 100%;
+    color: aliceblue;
+    background-color: blueviolet;
+}
+.boxes2{
+    height: 30%;
+    width: 100%;
+    color: aliceblue;
+    background-color: green;
+}
+.boxes3{
+    height: 30%;
+    width: 100%;
+    color: aliceblue;
+    background-color:rgb(86, 228, 84);
+}
+
+
+.hello{
+    text-align: center;    
+}
+.tail{
+    /* height: 10vh; */
+    padding-bottom: 20px;
+    width: 100%;
+    background-color: rgb(41, 164, 164);
+    color: aliceblue;
+    display: inline-flex;
+    justify-content: space-around;
+
+    
+}  
+.tailn{
+    list-style: none;
+    
+}
+.tailn li{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 0px 20px 0px 0px;
+}
+.overlay{
+    height: 5px;
+    width: 100%;
+    background-color: rgb(119, 138, 42);
+}
+.footer{
+    padding-bottom: 100px;
+    width: 100%;
+    background-color: rgb(25, 10, 78);
+    color: aliceblue;
+
+}
+.Get{
+    margin-left: 6%;
+}
+/* .footnote{
+    
+    
+}   */
+span{
+    margin-bottom: 40px;
+}
+.endnote{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(25, 25, 28);
+    color: aliceblue;
+}
+.licans{
+    float: right;
+    margin-right: 20px;
+}
+ 
+
+/* @media only screen and (min-widt:600px){
+    footer{
+        padding-left: 100px;
+        padding-right: 100px;
+        
+        }
+    
+
+    } */
+
